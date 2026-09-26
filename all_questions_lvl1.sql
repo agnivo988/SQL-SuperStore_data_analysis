@@ -1,0 +1,68 @@
+-- Level 1
+-- Display all records from the table.
+-- Display only Order Date, Customer Name, Category, and Sales.
+-- Find all orders where Sales > 500.
+-- Find all orders where Sales < 100.
+-- Find all orders from the Technology category.
+-- Find all orders from the West region.
+-- Find all orders shipped using Second Class.
+-- Find all customers belonging to the Consumer segment.
+-- Find all orders from California.
+-- Display all unique categories.
+--  Level 2
+-- Find the 10 orders with the highest sales.
+-- Find the 10 orders with the lowest sales.
+-- Find the 5 most expensive products based on individual sales.
+-- Display customers alphabetically.
+-- Display orders from highest to lowest sales.
+--  Level 3 — COUNT, SUM, AVG
+-- Find the total number of orders/rows.
+-- Find the total sales.
+-- Find the average sales.
+-- Find the highest sale.
+-- Find the lowest sale.
+-- Find the number of unique customers.
+-- Find the number of unique products.
+-- Find total sales for each category.
+-- Find total sales for each region.
+-- Find total sales for each segment.
+--  Level 4 — GROUP BY
+-- Find the average sales for each category.
+-- Find the number of orders for each category.
+-- Find the number of orders for each region.
+-- Find total sales for each sub-category.
+-- Find the top 5 sub-categories by total sales.
+-- Find the top 10 customers by total sales.
+-- Find the top 10 products by total sales.
+-- Find total sales for each state.
+-- Find total sales for each city.
+-- Find the average sales for each shipping mode.
+--  Level 5 — HAVING
+-- Find customers whose total sales are greater than 5,000.
+-- Find categories whose total sales are greater than 100,000.
+-- Find cities having more than 50 orders.
+-- Find products that appear more than 10 times.
+-- Find sub-categories whose average sales are greater than 200.
+--  Level 6 — Dates
+-- Find the earliest order date.
+-- Find the latest order date.
+-- Find total sales for each year.
+-- Find total sales for each month.
+-- Find the number of orders placed in each year.
+-- Find the year with the highest sales.
+-- Find the month with the highest sales.
+-- Compare total sales between 2017 and 2018.
+-- Find the average sales for each year.
+-- Find the top 5 months by sales.
+
+-- Find the customer with the highest total sales.
+-- Find the product with the highest total sales.
+-- Find the highest-selling product in each category.
+-- Find orders whose sales are higher than the overall average sales.
+-- Find the category contributing the largest percentage of total sales.
+-- Find the top 3 customers in every segment.
+-- Find the top 3 products in every category.
+-- Calculate year-over-year sales growth.
+-- Calculate cumulative sales by date.
+-- Find customers whose total sales are above the average customer sales.
+
